@@ -1,0 +1,8 @@
+.inputContainer input{
+width:900px;
+height:40px
+}
+.inputContainer{
+    font-weight: 500;
+    font-size: large;
+}
